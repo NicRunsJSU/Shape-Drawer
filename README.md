@@ -27,4 +27,4 @@ For this program to work, you must select the right form of [JAVA SE](https://ww
  ## Developed Using 
   This program was developed using [NetBeans 8.2](https://netbeans.org/downloads/).  
 ## Author
-  This program was created by Nicholas Morrison
+  This program was created by Nicholas Morrison while under the instruction of Jay Snellen.
