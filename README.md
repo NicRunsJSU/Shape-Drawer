@@ -11,9 +11,9 @@ For this program to work, you must select the right form of [JAVA SE](https://ww
 2. Test whether the program works.
    * Click on the project folder.
    * Go into the dist folder.
-   * Run the Lab_5D.jar and a frame should open with 30 random shapes (either rectangles, circles, or triangles) with their volumes tagged to them. 
+   * Run the Lab_5D.jar and a frame should open with 30 random shapes (either rectangles, circles, or triangles) with their areas tagged to them. 
 ## How to Manipulate the Code
-  The program randomly generates 30 shapes randomly. If you want to change the number of shapes it generates, go to line 31 and change the value that i must be less than, in order for the program to iterate. 
+  The program randomly generates 30 shapes randomly. If you want to change the number of shapes it generates, go to line 31 and change the value that i must be less than, so that the program will iterate through the shape creation process a different number of times. 
   ```
   for (int i = 0; i < 30; ++i) {
   ```
@@ -28,3 +28,4 @@ For this program to work, you must select the right form of [JAVA SE](https://ww
   This program was developed using [NetBeans 8.2](https://netbeans.org/downloads/).  
 ## Author
   This program was created by Nicholas Morrison while under the instruction of Jay Snellen.
+### Enjoy This Little Random Shape Drawer
